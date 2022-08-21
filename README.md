@@ -1,4 +1,4 @@
-# RTOS-Project
+# Real Time Operating System (RTOS) Project
 The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT
 Embedded.
 
