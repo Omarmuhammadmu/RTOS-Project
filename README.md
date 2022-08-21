@@ -2,7 +2,7 @@
 The project is implemented using FreeRTOS on the target emulation board provided via Eclipse CDT
 Embedded.
 
-#Project Specifications 
+# Project Specifications 
 
 Three tasks communicate via a queue of fixed size as described below:
 
